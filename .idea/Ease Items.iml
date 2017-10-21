@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="PHP" type="php">
+        <CLASSES>
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/barryvdh/laravel-ide-helper" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/barryvdh/reflection-docblock" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/composer" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/doctrine/annotations" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/doctrine/cache" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/doctrine/collections" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/doctrine/common" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/doctrine/dbal" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/doctrine/inflector" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/doctrine/lexer" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/guzzlehttp/guzzle" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/guzzlehttp/promises" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/guzzlehttp/psr7" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/illuminate/console" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/illuminate/contracts" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/illuminate/filesystem" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/illuminate/support" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/laravel/installer" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/nesbot/carbon" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/paragonie/random_compat" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/psr/http-message" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/psr/log" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/symfony/class-loader" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/symfony/console" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/symfony/debug" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/symfony/finder" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/symfony/polyfill-mbstring" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/symfony/process" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/symfony/translation" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/barryvdh/laravel-ide-helper" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/barryvdh/reflection-docblock" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/composer" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/doctrine/annotations" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/doctrine/cache" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/doctrine/collections" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/doctrine/common" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/doctrine/dbal" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/doctrine/inflector" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/doctrine/lexer" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/guzzlehttp/guzzle" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/guzzlehttp/promises" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/guzzlehttp/psr7" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/illuminate/console" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/illuminate/contracts" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/illuminate/filesystem" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/illuminate/support" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/laravel/installer" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/nesbot/carbon" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/paragonie/random_compat" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/psr/http-message" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/psr/log" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/symfony/class-loader" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/symfony/console" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/symfony/debug" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/symfony/finder" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/symfony/polyfill-mbstring" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/symfony/process" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Composer/vendor/symfony/translation" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
